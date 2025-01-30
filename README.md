@@ -8,8 +8,8 @@ This is:
 Library install in virtual environment instructions:
 
 - Install PYTHON 3.12 with pip if you haven't already
-- Opening a terminal
-- Going to the code directory -> $ cd C:\path\to\code\folder
+- Open a terminal
+- Go to the code directory -> $ cd C:\path\to\code\folder
 - Create virtual environment in directory (recommended) -> $ python -m venv .venv
 - Activate virtual environment (if applicable) -> $ .venv/scripts/activate
 - Install all required libraries -> $ pip install -r requirements.txt
