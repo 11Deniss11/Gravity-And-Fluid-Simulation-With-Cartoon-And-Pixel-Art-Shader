@@ -1,16 +1,13 @@
 This is:
-
 - A Gravity Sim
 - A Fluid Sim
 - A Script to Create Water Visuals
 - A Script to Convert To Pixel Art
 
 Library install in virtual environment instructions:
-
 - Run InstallLibraries.bat script either by double clicking or through terminal
 
 Run desired script by:
-
 - Opening a terminal
 - going to the code directory -> cd C:\path\to\code\folder
 - activate virtual environment with -> .venv\Scripts\activate
