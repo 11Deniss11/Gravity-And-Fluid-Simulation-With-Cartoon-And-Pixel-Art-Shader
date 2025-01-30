@@ -4,14 +4,15 @@ This is:
 - A Script to Create Water Visuals
 - A Script to Convert To Pixel Art
   
-Library install in virtual environment instructions (INSTALL PYTHON 3.12 WITH PIP IF YOU HAVEN'T ALREADY):
+Library install in virtual environment instructions:
+- Install PYTHON 3.12 with pip if you haven't already
 - Run InstallLibraries.bat script either by double clicking or through terminal
   
 Run desired script by:
 - Opening a terminal
-- going to the code directory -> cd C:\path\to\code\folder
-- activate virtual environment with -> .venv\Scripts\activate
-- run desired script with -> python NameOfScript.py
+- Going to the code directory -> cd C:\path\to\code\folder
+- Activate virtual environment with -> .venv\Scripts\activate
+- Run desired script with -> python NameOfScript.py
   
 Usage Instructions:  
 - Run desired simulation with your desired settings (change in python file)  
