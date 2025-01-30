@@ -6,6 +6,7 @@ This is:
   
 Library install in virtual environment instructions:
 - Install PYTHON 3.12 with pip if you haven't already
+- Install FFMPEG and add to PATH https://www.ffmpeg.org/
 - Run InstallLibraries.bat script either by double clicking or through terminal
   
 Run desired script by:
