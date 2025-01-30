@@ -17,8 +17,8 @@ Library install in virtual environment instructions:
 Run desired script by:
 
 - Opening a terminal to the code directory
-- Activate virtual environment with -> .venv\Scripts\activate
-- Run desired script with -> python NameOfScript.py
+- Activate virtual environment with -> $ .venv\Scripts\activate
+- Run desired script with -> $ python NameOfScript.py
 
 Usage Instructions:
 
