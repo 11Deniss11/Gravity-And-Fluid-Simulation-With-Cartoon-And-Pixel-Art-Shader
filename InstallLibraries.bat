@@ -7,6 +7,7 @@ cd %~dp0
 python -m venv .venv
 call .venv\Scripts\activate
 pip install numpy
+pip install scipy
 pip install numba
 pip install opencv-python
 pip install pillow
