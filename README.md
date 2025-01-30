@@ -4,7 +4,7 @@ This is:
 - A Script to Create Water Visuals
 - A Script to Convert To Pixel Art
   
-Library install in virtual environment instructions:
+Library install in virtual environment instructions (INSTALL PYTHON 3.12 WITH PIP IF YOU HAVEN'T ALREADY):
 - Run InstallLibraries.bat script either by double clicking or through terminal
   
 Run desired script by:
